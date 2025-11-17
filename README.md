@@ -7,8 +7,12 @@ Location: Nottingham UK
 People: Hongyu Yan, Pengyuan Shu, Jasleen Kaur, Jed Gawan
 
 
+System block diagram:
+<img width="1840" height="783" alt="image" src="https://github.com/user-attachments/assets/3f433c29-d772-4726-ba07-bae82d68b927" />
+
+
 Photo of the converter:
-<img width="3601" height="1748" alt="image" src="https://github.com/user-attachments/assets/6171f199-b696-4f4c-8128-88dac736240c" />
+<img width="1402" height="1053" alt="image" src="https://github.com/user-attachments/assets/e1f71035-7322-484b-92e6-5915ffc8e2f3" />
 
 
 PCB Design Schematic (Converter Board):
